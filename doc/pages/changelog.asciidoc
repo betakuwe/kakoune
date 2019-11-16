@@ -8,6 +8,8 @@ released versions.
 * Expose history tree through `$kak_history` and
   `$kak_uncommitted_modifications`
 
+* Replace NCursesUI with a custom terminal UI implementation
+
 == Kakoune 2019.12.10
 
 * Arrow keys and `<home>`, `<end>` are not normal mode commands
